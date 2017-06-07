@@ -1,0 +1,8 @@
+[package]
+name = "os-rust"
+version = "0.1.0"
+authors = ["Enamex <enamex+git@outlook.com>"]
+
+[dependencies]
+rand = "*"
+lazy_static = "*"
